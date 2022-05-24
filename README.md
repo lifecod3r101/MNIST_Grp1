@@ -1,5 +1,6 @@
 # MNIST_Grp1
 COLLINS ABWAO CIT-223-034/2018
+ELIJAH OTIENO CIT-223-033/2018
 
 
 We were able to train a sequential neural network model composed of three layers. The first layer was the input layer that had a flattening function, the second layer was a keras dense layer composed of 
